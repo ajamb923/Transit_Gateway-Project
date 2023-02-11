@@ -1,0 +1,15 @@
+# Create Transit Gateway Infrastructure
+# 2 Regions
+# 4 VPCs
+    VPC A & B = us-east-1
+    VPC C & D = us-east-2
+# 2 Transit Gateways
+# Do Transit Gateway Peering
+# 1 subnet for each VPC 
+# 1 Instance for each VPC 
+
+
+
+# Transit Gateway
+# Transit Gateway Attachment
+# Transit Gateway Route tables
